@@ -1,39 +1,18 @@
-# Abu Bakar Tufail
+# 💫 About Me:
+Abu Bakar Tufail<br>Hello! I'm a passionate Software Engineer with a strong focus on Machine Learning and Data Science. I thrive on solving complex problems and transforming data into actionable insights.<br><br>🚀 About Me<br>🎓 I hold a Bachelor's degree in Software Engineering from the University of Okara.<br>🌱 Currently, I am pursuing a role as a Machine Learning Engineer to further my journey toward becoming a Data Scientist.<br>💻 I am proficient in Python and have hands-on experience in developing applications using the Django framework.<br>📊 I possess skills in data analysis and visualization, utilizing libraries like Pandas, Matplotlib, and Seaborn.<br>🛠️ Skills<br>Programming Languages: Python<br>Frameworks: Django<br>Data Analysis: Pandas, Matplotlib, Seaborn<br>Machine Learning: Supervised & Unsupervised Learning<br>Soft Skills: Analytical Thinking, Problem Solving, Effective Communication<br>🌍 Languages<br>English: Upper Intermediate (B2)<br>Urdu: Advanced (C1)<br>Punjabi: Advanced (C1)<br>🎮 Hobbies<br>Playing Football<br>Video Gaming<br>Reading Historical Books<br>Gardening<br>📫 Connect with Me<br>📧 Email: abubakarrajput6947@gmail.com<br>💼 LinkedIn<br>🐱 GitHub<br>Feel free to explore my repositories and reach out if you want to collaborate or learn more about my work!
 
-Hello! I'm a passionate Software Engineer with a strong focus on Machine Learning and Data Science. I thrive on solving complex problems and transforming data into actionable insights.
 
-## 🚀 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakar6947) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bakartufail9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abubakarrajput6947@gmail.com) 
 
-- 🎓 I hold a Bachelor's degree in Software Engineering from the University of Okara.
-- 🌱 Currently, I am pursuing a role as a Machine Learning Engineer to further my journey toward becoming a Data Scientist.
-- 💻 I am proficient in Python and have hands-on experience in developing applications using the Django framework. 
-- 📊 I possess skills in data analysis and visualization, utilizing libraries like Pandas, Matplotlib, and Seaborn.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bakar6947&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bakar6947&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bakar6947&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Skills
+---
+[![](https://visitcount.itsvg.in/api?id=bakar6947&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Programming Languages**: Python
-- **Frameworks**: Django
-- **Data Analysis**: Pandas, Matplotlib, Seaborn
-- **Machine Learning**: Supervised & Unsupervised Learning
-- **Soft Skills**: Analytical Thinking, Problem Solving, Effective Communication
-
-## 🌍 Languages
-
-- **English**: Upper Intermediate (B2)
-- **Urdu**: Advanced (C1)
-- **Punjabi**: Advanced (C1)
-
-## 🎮 Hobbies
-
-- Playing Football
-- Video Gaming
-- Reading Historical Books
-- Gardening
-
-## 📫 Connect with Me
-
-- 📧 Email: [abubakarrajput6947@gmail.com](mailto:abubakarrajput6947@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐱 [GitHub](https://github.com/your-username)
-
-Feel free to explore my repositories and reach out if you want to collaborate or learn more about my work!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
